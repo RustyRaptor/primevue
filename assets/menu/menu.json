@@ -593,6 +593,11 @@
             ]
         },
         {
+            "name": "Api Docs",
+            "icon": "pi pi-book",
+            "to": "/api"
+        },
+        {
             "name": "Support",
             "icon": "pi pi-question",
             "children": [
